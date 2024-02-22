@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🩻 I'm Ceilidh (she/her), a PhD student at the University of Cambridge. My research investigates predictive biomarkers and computational models for understanding and predicting radiotherapy response.  
+I'm Ceilidh (she/her), a PhD student at the University of Cambridge. My research investigates predictive biomarkers and computational models for understanding and predicting radiotherapy response.  
 
-I spend most of my time doing research analysis and visualisations (typically using our research-group developed Python package [scikit-rt](https://github.com/scikit-rt/scikit-rt) using medical data anywhere from investigating common genetic variants to CT image biomarkers. I'm particulraly interested in FAIR data principles, ethical data practices and how we can produce reproducible models and analysis pipelines across scientific fields. 
+🩻 I spend most of my time doing research analysis and visualisations using medical data anywhere from investigating common genetic variants to CT image biomarkers. I'm particulraly interested in FAIR data principles, ethical data practices and how we can produce reproducible models and analysis pipelines across scientific fields. 
 
 My current work has ranged across a series of projects: 
-  - Reproducible Pipeline for Biomarker Investigation: Building a robust and reproducible modular pipeline for investigating biomarkers that ensures transparency and facilitates collaboration and validation of findings
-  - Contributing to Open Source Projects: contributing to our research-group developed Python package [scikit-rt](https://github.com/scikit-rt/scikit-rt) 
-  - Data Ethics and Reproducibility: organizing a symposium on data ethics, contributing to open-access resources for reproducibility, and participating in discussions and collaborations as part of community-led projects.
+  🧬 Reproducible Pipeline for Biomarker Investigation: Building a robust and reproducible modular pipeline for investigating biomarkers that ensures transparency and facilitates collaboration and validation of findings
+  📚 Contributing to Open Source Projects: contributing to our research-group developed Python package [scikit-rt](https://github.com/scikit-rt/scikit-rt) 
+  📊 Data Ethics and Reproducibility: organizing a symposium on data ethics, contributing to open-access resources for reproducibility, and participating in discussions and collaborations as part of community-led projects.
 
 <!--
 **CeilidhWelsh/CeilidhWelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
