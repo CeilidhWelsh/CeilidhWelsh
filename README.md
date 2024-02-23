@@ -7,7 +7,7 @@ I'm Ceilidh (she/her), a PhD student at the University of Cambridge. My research
 My current work has ranged across a series of projects: 
   - 🧬 Reproducible Pipeline for Biomarker Investigation: building a robust and reproducible modular pipeline for investigating biomarkers that ensures transparency and facilitates collaboration and validation of findings
   - 📚 Contributing to Open Source Projects: see our research-group developed Python package [scikit-rt](https://github.com/scikit-rt/scikit-rt) 
-  - 📊 Data Ethics and Reproducibility: [organizing a symposium](https://github.com/Susana465/der_symposium_20230310) on data ethics, contributing to open-access resources for [data reproducibility and ethics](https://the-turing-way.netlify.app/ethical-research/data-hazards), and participating in discussions and collaborations as part of community-led projects.
+  - 📊 Data Ethics and Reproducibility: [organizing a symposium](https://github.com/Susana465/der_symposium_20230310) on data ethics, contributing to open-access resources for [data reproducibility and ethics](https://the-turing-way.netlify.app/ethical-research/data-hazards), and participating in discussions and collaborations as part of [community-led projects.](https://crukcambridgecentre.org.uk/research/strategic/radnet/timeline)
 
 <!--
 **CeilidhWelsh/CeilidhWelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
