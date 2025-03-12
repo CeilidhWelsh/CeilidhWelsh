@@ -2,7 +2,7 @@
 
 I'm Ceilidh (she/her), a PhD candidate at the University of Cambridge - viva pending! My research investigates predictive biomarkers and computational models for understanding and predicting radiotherapy response.  
 
-I spend most of my time doing research analysis and visualisations using medical data anywhere from investigating common genetic variants to CT image radiotherapy biomarkers. I'm particularly interested in FAIR data principles, ethical data practices and how we can produce reproducible models and analysis pipelines across scientific fields. 
+I spend most of my time doing research analysis and visualisations using medical data anywhere from investigating common genetic variants to CT image radiotherapy biomarkers. I'm particularly interested in FAIR data principles, ethical data practices and how we can produce reproducible models, analysis pipelines and frameworks across scientific fields. 
 
 My current work has ranged across a series of projects: 
   - 🧬 Reproducible Pipeline for Biomarker Investigation: building a robust and reproducible modular pipeline for investigating CT image biomarkers that ensures transparency and facilitates collaboration and validation of findings 
